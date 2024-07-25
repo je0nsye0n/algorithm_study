@@ -1,1 +1,5 @@
-# algorithm_study
+# 2024 algorithm_study
+기간: 2021년 3월~
+정기 회의: 수요일 오후 8시
+참고 사이트: 프로그래머스, 백준
+

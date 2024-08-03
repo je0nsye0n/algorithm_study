@@ -1,11 +1,11 @@
 # 2024 algorithm_study
 
 - 기간 : 2024년 8월 1일 ~   
-- 정기 회의 : 매주 수요일 밤   
+- 정기 회의 : 주 1회 (온라인, 오프라인 격주로 진행)   
 - 참고 사이트 : 프로그래머스, 백준
 
   
-|주차|문제1|문제2|문제3|문제4|문제5|
+|주차|내용|문제1|문제2|문제3|문제4|문제5|
 |------|---|---|---|---|---|
-|1주차|[23284](https://www.acmicpc.net/problem/23284)|[10828](https://www.acmicpc.net/problem/10828)|[10845](https://www.acmicpc.net/problem/10845)|[18258](https://www.acmicpc.net/problem/18258)|[26042](https://www.acmicpc.net/problem/26042)|
+|1주차|스택과 큐|[23284](https://www.acmicpc.net/problem/23284)|[10828](https://www.acmicpc.net/problem/10828)|[10845](https://www.acmicpc.net/problem/10845)|[18258](https://www.acmicpc.net/problem/18258)|[26042](https://www.acmicpc.net/problem/26042)|
 
